@@ -1,4 +1,4 @@
-# https://joeypiraino.github.io/coding.quiz/
+https://joeypiraino.github.io/coding.quiz/
 
 This is the creation of a timed 5 question multiple-choice quiz related to Javascript coding knowledge:
 
